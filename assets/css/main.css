@@ -3162,7 +3162,7 @@
 
 	#banner {
 		background-attachment: scroll,							fixed;
-		background-color: #666;
+		background-image: #666;
 		background-image: url("images/overlay.png"), url("../../images/banner.jpg");
 		/* background-image: url("/images/pic06.jpg"); */
 		background-position: top left,						center center;
